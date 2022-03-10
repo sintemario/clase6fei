@@ -1,0 +1,18 @@
+.fondoNegro{
+    background-color: black;
+    color: white;
+}
+h1{background-color: orange;}
+
+nav{
+    background-color: orange;
+}
+header{
+    background-color: orange;
+}
+
+body{
+    background-image : url('../images/backgroundpetshop.png');
+    background-repeat: no-repeat;
+    background-position: 50% 15%;
+}
